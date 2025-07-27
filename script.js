@@ -17,7 +17,7 @@ let gameStarted = false;
 highestScore = Number(highestScore);
 highestScoreT.textContent = `Highest Score🔥: ${highestScore}`;
 
-document.addEventListener("keydown", function () {
+document.addEventListener("dblclick", function () {
   if (gameStarted === false) {
     gameStarted = true;
     console.log("Game has started");
