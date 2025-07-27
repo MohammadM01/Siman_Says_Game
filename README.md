@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Play%20it%20on-GitHub%20Pages-blueviolet?style=flat-square&logo=github" />
 </p>
 
+## Try
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-00C853?style=for-the-badge)](https://mohammadm01.github.io/Siman_Says_Game/)
 
