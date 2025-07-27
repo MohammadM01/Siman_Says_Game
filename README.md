@@ -12,16 +12,12 @@
   <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Play%20it%20on-GitHub%20Pages-blueviolet?style=flat-square&logo=github" />
 </p>
-
 ---
-
+[![Live Demo](https://img.shields.io/badge/Demo-Live-00C853?style=for-the-badge)](https://mohammadm01.github.io/Siman_Says_Game/)
+---
 ## 🎥 Demo
 
 https://github.com/user-attachments/assets/f6bfc75f-1fa3-42bc-8fc3-5b0fd4549547
-
-<!-- Or if GitHub renders it as a playable video preview, even better -->
-
----
 
 ## 📖 About
 
@@ -50,4 +46,4 @@ The game stores your highest score using **localStorage**, making each session m
    cd Siman_Says_Game
 2. **Open with live server**
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-00C853?style=for-the-badge)](https://mohammadm01.github.io/Siman_Says_Game/)
+
