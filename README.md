@@ -1,9 +1,9 @@
 # 🎮 Simon Says Game
 
-> ✨ **A game of light, a test of mind,  
-> One wrong step, you’re left behind.  
-> Level up or start anew —  
-> The colors wait. It’s up to you.**
+> 🔮 "Patterns flash and memories test,
+> Only the sharpest pass the quest.
+> So rise, react, and don’t delay —
+> Simon is watching. Ready to play?
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
