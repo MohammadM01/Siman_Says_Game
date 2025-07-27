@@ -1,10 +1,10 @@
 # 🎮 Simon Says Game
-
+```
 > 🔮 "Patterns flash and memories test,
 > Only the sharpest pass the quest.
 > So rise, react, and don’t delay —
 > Simon is watching. Ready to play?
-
+```
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Made%20With-JavaScript-yellow?style=flat-square&logo=javascript" />
