@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Play%20it%20on-GitHub%20Pages-blueviolet?style=flat-square&logo=github" />
 </p>
----
+
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-00C853?style=for-the-badge)](https://mohammadm01.github.io/Siman_Says_Game/)
 
