@@ -60,7 +60,7 @@ function reset() {
   uSeq = [];
   level = 0;
   h2.innerHTML =
-    '<span style="color: red">Game over !!!</span> <br>Press any key to restart';
+    '<span style="color: red">Game over !!!</span> <br>Double click to restart';
   highestScoreT.textContent = `Highest Score🔥: ${highestScore}`;
 }
 
