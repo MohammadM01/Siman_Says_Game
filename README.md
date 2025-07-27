@@ -2,8 +2,12 @@
 
 https://github.com/user-attachments/assets/f6bfc75f-1fa3-42bc-8fc3-5b0fd4549547
 
-
-> *"Follow the pattern, test your brain, miss a move — start again!"* 🧠
+```
+  ✨ **A game of light, a test of mind,  
+  One wrong step, you’re left behind.  
+  Level up or start anew —  
+  The colors wait. It’s up to you.**
+```
 
 A simple, interactive **Simon Says** memory game built using **HTML, CSS, and JavaScript**. Test your memory by following the color sequence as it increases with every level. The game stores your highest score using **localStorage**, making each session more competitive and fun!
 
