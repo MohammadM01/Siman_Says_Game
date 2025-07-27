@@ -49,3 +49,5 @@ The game stores your highest score using **localStorage**, making each session m
    git clone https://github.com/MohammadM01/Siman_Says_Game.git
    cd Siman_Says_Game
 2. **Open with live server**
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live-00C853?style=for-the-badge)](https://mohammadm01.github.io/Siman_Says_Game/)
